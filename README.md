@@ -1,5 +1,5 @@
 # Parte 1 de 4 
-Esse projeto contém 4 partes, sendo todos focadas em frontend.
+Esse projeto contém 4 partes, todas focadas em frontend.
 
 # Part 1 of 4 
 This project has 4 parts and is focused on the frontend
