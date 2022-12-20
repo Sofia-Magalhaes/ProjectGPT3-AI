@@ -13,6 +13,16 @@ const Header = () => {
           Indulgência maneira tudo alegria alteração turbulenta o apego. Partido que nós anos para pedir permitir pediu.
         </p>
         <div className='gpt3__header-content__input'>
+          <input type="email" placeholder='Seu Email' />
+          <button type='button'>Vamos começar</button>
+        </div>
+        <div className='gpt3__header-content__people'>
+          <img src={people} alt="pessoas" />
+          <p>1.600 pessoas solicitaram acesso nas últimas 24 horas</p>
+        </div>
+      </div>
+        <div className='gpt3__header-image'>
+          <img src={ai} alt="I.A" />
         </div>
     </div>
   )
