@@ -18,7 +18,9 @@
   font-size: 62px;
   line-height: 75px;
   letter-spacing: -0.04em;
-  color: #fff;
+  background: -webkit-linear-gradient(103deg, rgba(174,103,250,1) -13.86%, rgba(244,152,103,1)  99.55%, rgba(255,255,255,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .gpt3__header-content p {
