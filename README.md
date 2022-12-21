@@ -4,7 +4,7 @@ Esse projeto contém 4 partes, todas focadas em frontend.
 # Part 1 of 4 
 This project has 4 parts and is focused on the frontend
 
-#Website Link | Link do site
+# Website Link | Link do site
 https://gpt3-site-sm.netlify.app
 
 
